@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @HarkiratSingh-Dev
-- 👀 I’m interested in quiet a lot of things, but want to explore as much as i can, (In short FOOD)
-- 🌱 I’m currently learning how to master the art of not giving the f (Just joking)
-- 💞️ I’m looking to collaborate on projects ranging from anything to anything(what ever is interesting but I know there is nothing more interesting than food)
-- 📫 How to reach me umm you have to think harder, you might know the answer :):P
+👋 Hi, I’m Harkirat Singh
+
+I’m a software developer with a keen interest in exploring new technologies and solving real-world problems through code. I believe in continuous learning and collaboration to build meaningful and efficient solutions.
+
+🔹 About Me
+	•	💻 Passionate about software development, problem-solving, and innovation
+	•	📚 Constantly learning and improving my skills in development and engineering
+	•	🤝 Open to collaborations on exciting and impactful projects
+	•	🎯 Focused on writing clean, maintainable, and efficient code
+
+📬 Get in Touch
+
+Feel free to connect with me via GitHub, LinkedIn, or email to discuss projects, ideas, or potential collaborations.
 
 <!---
 HarkiratSingh-Dev/HarkiratSingh-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
